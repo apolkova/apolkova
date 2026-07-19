@@ -5,7 +5,7 @@
 I'm a software engineering student passionate about building web, desktop, and mobile applications. I love being in this field because it allows me to combine creativity with problem-solving, turning ideas into practical and meaningful software. Every project is an opportunity to learn something new and challenge myself to grow as a developer. I recently developed a passion for machine learning and large language models. I'm currently learning about modern AI techniques, experimenting with different models and frameworks, and building projects that leverage LLMs to solve real-world problems. I'm excited to continue exploring this rapidly evolving field and apply AI to create useful, intelligent software.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://apolkova.github.io/my-page/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adéla%20Polková-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN](https://www.linkedin.com/in/ad%C3%A9la-polkov%C3%A1-642144382)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adéla%20Polková-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad%C3%A9la-polkov%C3%A1-642144382)
 
 </div>
 
